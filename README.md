@@ -117,7 +117,7 @@ First we need to install the library for Huskylens on Arduino IDE.
 
 ### HuskyLens with LEDs
 
-![WhatsApp%20Video%202024-03-18%20at%202 48 50%20PM_converted](https://github.com/ItsRawanMoha/HUSKYLENS/assets/156599594/1acd5811-899d-4000-961d-7903e455769d)
+![WhatsApp%20Video%202024-03-18%20at%203 11 54%20PM_converted](https://github.com/ItsRawanMoha/HUSKYLENS/assets/156599594/a617acba-feab-42b1-ad43-86bbf85040ba)
 
 
 2-	I2C communication protocol 
@@ -131,8 +131,7 @@ First we need to install the library for Huskylens on Arduino IDE.
 
 ![I2CwithLEDHusky](https://github.com/ItsRawanMoha/HUSKYLENS/assets/156599594/23991686-5ed1-431e-9b60-99b046a8eaa1)
 
-![WhatsApp%20Video%202024-03-18%20at%202 48 50%20PM_converted](https://github.com/ItsRawanMoha/HUSKYLENS/assets/156599594/9e1b1ac7-224f-488c-8255-8da3104f827d)
-
+![WhatsApp%20Video%202024-03-18%20at%202 48 50%20PM_converted](https://github.com/ItsRawanMoha/HUSKYLENS/assets/156599594/1acd5811-899d-4000-961d-7903e455769d)
 
 
 - NOTE: HuskyLens with LEDs (ID0 = Green, ID1 = Red, and ID2 = Yellow)!
