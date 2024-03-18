@@ -135,7 +135,7 @@ First we need to install the library for Huskylens on Arduino IDE.
 
 
 - NOTE: HuskyLens with LEDs (ID0 = Green, ID1 = Red, and ID2 = Yellow)!
-- You can see the code as an attachment in the file sectionabove.
+- You can see the code as an attachment in the file section above.
 
 
 ## Conclusion
